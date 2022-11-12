@@ -1,0 +1,1 @@
+console.log("static files to be used in various places");
